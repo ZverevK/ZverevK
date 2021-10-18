@@ -1,4 +1,5 @@
-```const zverevk = frontend_develper {
+```
+const zverevk = frontend_develper {
     about {
         name = "Konstantin"
         surname = "Zverev"
